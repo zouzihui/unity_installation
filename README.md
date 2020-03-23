@@ -27,6 +27,6 @@
 * 安装后点击"SDK Manager.exe"更新包
 * 启动unity(进入前需要注册用户)
 * 点击"edit"→"preferences"→"Editonal Tools"→更改SDK路径"D:\android-sdk-wimdows"→"更改JDK路径"D:\jdk1.8"
-* 新建场景→导入炸弹人游戏包→保存场景→点击"build setting"→选择"Android平台"→点击"Add Open Scenes"并选中保存场景文件→点击"Player settings"将"Other setting"中
+* 新建场景→导入炸弹人游戏包→保存场景→点击"build setting"→选择"Android平台"→点击"Add Open Scenes"并选中保存场景文件→点击"Player settings"将"Other setting"中"package name"改为"com.zoe.sj"→点击"build"打包就完成了，生成apk文件
 
 
