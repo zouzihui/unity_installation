@@ -2,18 +2,12 @@
 ## Unity安装过程
 **安装Unity3d开发平台**
 * 安装UnitySetup64-5.6.2f1
-
-# unity_installation
-
-# unity_installation
-## Unity安装过程
-**安装Unity3d开发平台**
-* 安装UnitySetup64-5.6.2f1
 ![unitysetup](https://images.gitee.com/uploads/images/2020/0323/223910_3fa1575f_1648195.png "c9976676f158b4f55b71f6a17076c29.png")
 * 安装UnityStandardAssetsSetup-5.6.2f1
 ![standarad](https://images.gitee.com/uploads/images/2020/0323/223934_68a1263f_1648195.png "e4af10da344a1dfe63fd30e70af6cd2.png")
 * 安装UnitySetup-Android-Support-for-Editor-5.6.2fl.exe
 ![Android](https://images.gitee.com/uploads/images/2020/0323/223957_5914a7b6_1648195.png "816e2257660cc0d5c830ee6ac080473.png")
+
 **安装Java开发平台**
 * 双击安装包，点击下一步
 * 路径改成D盘jdk1.8，点击下一步
